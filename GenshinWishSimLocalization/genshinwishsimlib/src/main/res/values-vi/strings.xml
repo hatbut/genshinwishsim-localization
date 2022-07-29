@@ -5,7 +5,7 @@
     <string name="total_count">Tổng số lần cầu nguyện: %d</string>
     <string name="total_spent">Ước tính. ~$%d (USD)</string>
     <string name="fate_points">Điểm vận mệnh: %1$d/%2$d</string>
-    <string name="chart_course">Biểu đồ Định Chuẩn vũ khí</string>
+    <string name="chart_course">Định Chuẩn vũ khí</string>
     <string name="remove_course">Bỏ Định Chuẩn</string>
     <string name="details">Chi Tiết</string>
     <string name="yes">Đồng ý</string>
@@ -44,9 +44,9 @@
     <string name="are_you_sure_clear_all_wish">Bạn có chắc chắn muốn xoá mọi kết quả?</string>
     <string name="are_you_sure_clear_fate_points">Thay đổi Định Chuẩn sẽ xoá sạch Điểm vận mệnh về 0. Bạn có chắc không?</string>
     <string name="simulator">Giả lập</string>
-    <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
-    <string name="inventory">Inventory</string>
-    <string name="view_inventory">View Inventory</string>
+    <string name="reset_linked_banner_notice">Banner này liên kết với banner %1$s. Nếu bạn thực hiện sẽ đặt lại cả hai.</string>
+    <string name="inventory">Túi</string>
+    <string name="view_inventory">Xem Túi đồ</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
